@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [github.com/oryankibandi](github.com/oryankibandi)
 
+- 🌱 I’m currently learning **Go**
+
 - 💬 Ask me about **NodeJS, Express, Flutter.**
 
 - 📫 How to reach me **kibandiian9@gmail.com**
