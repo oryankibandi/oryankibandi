@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/kibandiian" target="blank"><img src="https://img.shields.io/twitter/follow/kibandiian?logo=twitter&style=for-the-badge" alt="kibandiian" /></a> </p>
 
-- 🔭 I’m currently working on [Crypto Ventures](https://github.com/oryankibandi/Crypto-Ventures)
+- 🔭 I’m currently working on [Dev-Canary](https://www.devcanary.com)
 
 - 👨‍💻 All of my projects are available at [github.com/oryankibandi](github.com/oryankibandi)
 
 - 🌱 I’m currently learning [**Go**](https://go.dev/)
 
-- 💬 Ask me about **NodeJS, Express, Flutter.**
+- 💬 Ask me about **Microservices, NodeJS, Typescript, Flutter.**
 
 - 📫 How to reach me **kibandiian9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GNvUTcOJJrEgZzzJLtipRDQwAZfGUImk/](https://drive.google.com/file/d/1GNvUTcOJJrEgZzzJLtipRDQwAZfGUImk/)
+- 📄 Know about my experiences [https://devcanary.com](https://devcanary.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
