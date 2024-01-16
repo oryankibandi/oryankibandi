@@ -11,9 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/oryankibandi](github.com/oryankibandi)
 
-- 🌱 I’m currently learning [**Go**](https://go.dev/)
-
-- 💬 Ask me about **Microservices, NodeJS, Typescript, Flutter.**
+- 💬 Ask me about **Microservices, NodeJS, Typescript, PostgresQL, Kubernetes, Istio.**
 
 - 📫 How to reach me **kibandiian9@gmail.com**
 
