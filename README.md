@@ -17,11 +17,11 @@
 
 - 🛠️ Techstack: Go
 
-- 📄 Know about my experiences [https://linkedin.com/in/ian kibandi](https://linkedin.com/in/ian kibandi).
+- 📄 Know about my experiences [https://linkedin.com/in/ian-kibandi](https://linkedin.com/in/ian-kibandi).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/kibandiian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kibandiian" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ian kibandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ian kibandi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ian-kibandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ian kibandi" height="30" width="40" /></a>
 </p>
 
