@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://x.com/kibandiian" target="blank"><img src="https://img.shields.io/twitter/follow/kibandiian?logo=x&style=for-the-badge" alt="kibandiian" /></a> </p>
 
-- 🔭 I’m currently working on [Baobab](https://www.github.com/oryankibandi/baobab), a B+ Tree based key value store.
+- 🔭 I’m currently working on **[Baobab](https://www.github.com/oryankibandi/baobab)**, a B+ Tree based key value store.
 
 - 🌱 Learning more about database internals.
 
